@@ -2,9 +2,8 @@ const Project = ({ title, desc, tech, img, reverse, link, github }) => {
   return (
     <div className={"project " + (reverse ? "reverse" : null)}>
       <div className="project-thumbnail">
-        <img src={img} alt="project" />
         <a href={link} target="_blank">
-          <div className="project-thumbnail-overlay" />
+          <img src={img} alt="project" />
         </a>
       </div>
       <div className={"project-text " + (reverse ? "reverse" : null)}>

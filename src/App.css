@@ -179,14 +179,6 @@
     @apply h-full w-full absolute object-cover rounded-md;
   }
 
-  .project-thumbnail-overlay {
-    @apply h-full w-full absolute bg-blue-500 opacity-50 rounded-md;
-  }
-
-  .project-thumbnail-overlay:hover {
-    @apply bg-transparent;
-  }
-
   .project-text {
     @apply w-10/12 flex flex-col items-end;
   }
