@@ -10,3 +10,15 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
 }
+
+html {
+  scrollbar-color: gray black;
+}
+
+html::-webkit-scrollbar-thumb {
+  background-color: gray;
+}
+
+html::-webkit-scrollbar-track {
+  background-color: black;
+}
