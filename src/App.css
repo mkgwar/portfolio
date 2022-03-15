@@ -112,7 +112,7 @@
   }
 
   .about-detail {
-    @apply text-gray-400 font-medium text-base leading-6;
+    @apply text-gray-400 font-medium text-sm leading-6;
   }
 
   .about-text {
