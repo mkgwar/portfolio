@@ -12,11 +12,15 @@ body {
 }
 
 html {
-  scrollbar-color: gray black;
+  scrollbar-color: rgb(40,40,40) black;
+}
+
+html::-webkit-scrollbar{
+  width:2vw;
 }
 
 html::-webkit-scrollbar-thumb {
-  background-color: gray;
+  background-color: rgb(40,40,40);
 }
 
 html::-webkit-scrollbar-track {
