@@ -16,8 +16,8 @@ html {
   scrollbar-color: rgb(59, 130, 246) rgb(28, 25, 23);
 }
 
-html::-webkit-scrollbar{
-  width:0.5vw;
+html::-webkit-scrollbar {
+  width: 0.5vw;
 }
 
 html::-webkit-scrollbar-thumb {

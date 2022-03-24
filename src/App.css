@@ -7,6 +7,12 @@
     @apply bg-stone-900 w-full h-auto relative;
   }
 
+  /* 3D Container */
+
+  .threejs-container {
+    @apply absolute h-screen w-full top-0 left-0;
+  }
+
   /* email side */
 
   .email-side {
