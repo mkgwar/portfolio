@@ -228,7 +228,7 @@
   /* contact component */
 
   .contact {
-    @apply w-full flex items-center justify-center mt-40;
+    @apply w-full flex items-center justify-center mt-48;
   }
 
   .contact-container {
