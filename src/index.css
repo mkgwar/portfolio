@@ -14,7 +14,7 @@ body {
 * {
   scroll-behavior: smooth;
   scrollbar-width: thin;
-  scrollbar-color: rgb(59, 130, 246) transparent;
+  scrollbar-color: rgb(59, 130, 246) rgb(28, 25, 23);
 }
 
 *::-webkit-scrollbar {
@@ -26,5 +26,5 @@ body {
 }
 
 *::-webkit-scrollbar-track {
-  background-color: transparent;
+  background-color: rgb(28, 25, 23);
 }
