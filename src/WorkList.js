@@ -9,12 +9,12 @@ const workList = [
     reverse: false,
   },
   {
-    img: "https://firebasestorage.googleapis.com/v0/b/image-uploader-mkgwar.appspot.com/o/2.png?alt=media&token=f71427dd-8218-415e-a868-d9e41155f6bd",
-    title: "Instagram Clone",
-    desc: "An Instagram clone where user can register, sign in and upload pictures.",
-    tech: ["React JS", "Tailwind CSS", "Firebase", "Express JS", "Mongo DB"],
-    github: "https://github.com/mkgwar/insta-clone-frontend",
-    link: "https://insta-clone-mkgwar.netlify.app/",
+    img: "https://firebasestorage.googleapis.com/v0/b/image-uploader-mkgwar.appspot.com/o/to-do.png?alt=media&token=6d39c3d6-a55a-4bb2-839d-ace7a7dfc620",
+    title: "To-Do App",
+    desc: "A to-do app which helps you manage your tasks and be more productive.",
+    tech: ["React JS", "TypeScript", "Firebase", "React Router"],
+    github: "https://github.com/mkgwar/to-do-app",
+    link: "https://to-do-mkgwar.netlify.app/",
     reverse: true,
   },
   {

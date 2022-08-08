@@ -6,7 +6,7 @@ import Work from "./Components/Work";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
 import { Canvas } from "@react-three/fiber";
-import { MeshDistortMaterial, Sphere, Stars } from "@react-three/drei";
+import { MeshDistortMaterial, Sphere } from "@react-three/drei";
 
 const App = () => {
   return (
@@ -39,11 +39,8 @@ const App = () => {
       </div>
       <Navbar />
       <Main />
-      <a id="about" />
       <About />
-      <a id="work" />
       <Work />
-      <a id="contact" />
       <Contact />
       <Footer />
     </div>
