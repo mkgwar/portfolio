@@ -15,7 +15,7 @@ const Navbar = () => {
           Contact
         </a>
         <a
-          href="https://firebasestorage.googleapis.com/v0/b/image-uploader-mkgwar.appspot.com/o/Resume.pdf?alt=media&token=eec1781c-5f50-4817-9c28-ff99768648ea"
+          href="https://firebasestorage.googleapis.com/v0/b/image-uploader-mkgwar.appspot.com/o/Mohit_Gangwar_August.pdf?alt=media&token=dffb02bd-2d3f-4db2-878e-dc1f8a19042f"
           target="_blank"
         >
           <div className="nav-button-resume">Resume</div>
